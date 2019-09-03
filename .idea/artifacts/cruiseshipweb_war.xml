@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cruiseshipweb:war">
+    <output-path>$PROJECT_DIR$/business/cruiseship/cruiseshipweb/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>cruiseshipweb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="cruiseshipweb-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="cruiseshipweb:war exploded" />
+    </root>
+  </artifact>
+</component>

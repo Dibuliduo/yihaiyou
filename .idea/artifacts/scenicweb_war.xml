@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="scenicweb:war">
+    <output-path>$PROJECT_DIR$/business/scenic/scenicweb/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>scenicweb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="scenicweb-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="scenicweb:war exploded" />
+    </root>
+  </artifact>
+</component>

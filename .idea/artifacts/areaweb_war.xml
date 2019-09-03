@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="areaweb:war">
+    <output-path>$PROJECT_DIR$/business/area/areaweb/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>areaweb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="areaweb-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="areaweb:war exploded" />
+    </root>
+  </artifact>
+</component>

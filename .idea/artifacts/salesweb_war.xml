@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="salesweb:war">
+    <output-path>$PROJECT_DIR$/business/sales/salesweb/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>salesweb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="salesweb-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="salesweb:war exploded" />
+    </root>
+  </artifact>
+</component>

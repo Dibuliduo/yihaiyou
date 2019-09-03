@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="yhypcweb:war">
+    <output-path>$PROJECT_DIR$/projects/lvxbang/yhypcweb/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>yhypcweb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="yhypcweb-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="yhypcweb:war exploded" />
+    </root>
+  </artifact>
+</component>

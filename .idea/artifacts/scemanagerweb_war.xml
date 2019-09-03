@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="scemanagerweb:war">
+    <output-path>$PROJECT_DIR$/business/scemanager/scemanagerweb/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>scemanagerweb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="scemanagerweb-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="scemanagerweb:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="customerweb:war">
+    <output-path>$PROJECT_DIR$/business/customer/customerweb/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>customerweb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="customerweb-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="customerweb:war exploded" />
+    </root>
+  </artifact>
+</component>

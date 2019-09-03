@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="shopcartweb:war">
+    <output-path>$PROJECT_DIR$/logic/shopcart/shopcartweb/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>shopcartweb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="shopcartweb-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="shopcartweb:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="planweb:war">
+    <output-path>$PROJECT_DIR$/business/plan/planweb/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>planweb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="planweb-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="planweb:war exploded" />
+    </root>
+  </artifact>
+</component>

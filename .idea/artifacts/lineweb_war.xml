@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lineweb:war">
+    <output-path>$PROJECT_DIR$/business/line/lineweb/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>lineweb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="lineweb-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="lineweb:war exploded" />
+    </root>
+  </artifact>
+</component>

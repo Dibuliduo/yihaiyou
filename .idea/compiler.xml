@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Annotation profile for planweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="planweb" />
+      </profile>
+      <profile name="Annotation profile for fengxiao" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fengxiao" />
+      </profile>
+      <profile name="Annotation profile for trafficweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="trafficweb" />
+      </profile>
+      <profile name="Annotation profile for weixinweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="weixinweb" />
+      </profile>
+      <profile name="Annotation profile for coressh4" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="coressh4" />
+      </profile>
+      <profile name="Annotation profile for areaweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="areaweb" />
+      </profile>
+      <profile name="Annotation profile for lxbcommonweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lxbcommonweb" />
+      </profile>
+      <profile name="Annotation profile for goodsservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="goodsservice" />
+      </profile>
+      <profile name="Annotation profile for wechat-tool" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wechat-tool" />
+      </profile>
+      <profile name="Annotation profile for ticketweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ticketweb" />
+      </profile>
+      <profile name="Annotation profile for cruiseshipservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cruiseshipservice" />
+      </profile>
+      <profile name="Annotation profile for customerservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="customerservice" />
+      </profile>
+      <profile name="Annotation profile for transportationservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="transportationservice" />
+      </profile>
+      <profile name="Annotation profile for sparkbase" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sparkbase" />
+      </profile>
+      <profile name="Annotation profile for otherservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="otherservice" />
+      </profile>
+      <profile name="Annotation profile for handdrawingservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="handdrawingservice" />
+      </profile>
+      <profile name="Annotation profile for handdrawingweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="handdrawingweb" />
+      </profile>
+      <profile name="Annotation profile for transportationweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="transportationweb" />
+      </profile>
+      <profile name="Annotation profile for otherweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="otherweb" />
+      </profile>
+      <profile name="Annotation profile for search" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="search" />
+      </profile>
+      <profile name="Annotation profile for ikanalysis" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ikanalysis" />
+      </profile>
+      <profile name="Annotation profile for shopcartservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shopcartservice" />
+      </profile>
+      <profile name="Annotation profile for goodsweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="goodsweb" />
+      </profile>
+      <profile name="Annotation profile for orderweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="orderweb" />
+      </profile>
+      <profile name="Annotation profile for translation" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="translation" />
+      </profile>
+      <profile name="Annotation profile for customerweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="customerweb" />
+      </profile>
+      <profile name="Annotation profile for wechatservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wechatservice" />
+      </profile>
+      <profile name="Annotation profile for payservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="payservice" />
+      </profile>
+      <profile name="Annotation profile for cruiseshipweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cruiseshipweb" />
+      </profile>
+      <profile name="Annotation profile for scemanageservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="scemanageservice" />
+      </profile>
+      <profile name="Annotation profile for lvxbangservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lvxbangservice" />
+      </profile>
+      <profile name="Annotation profile for contractservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="contractservice" />
+      </profile>
+      <profile name="Annotation profile for lineservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lineservice" />
+      </profile>
+      <profile name="Annotation profile for shopcartweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shopcartweb" />
+      </profile>
+      <profile name="Annotation profile for datamgr" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="datamgr" />
+      </profile>
+      <profile name="Annotation profile for userservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="userservice" />
+      </profile>
+      <profile name="Annotation profile for weixinservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="weixinservice" />
+      </profile>
+      <profile name="Annotation profile for contractweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="contractweb" />
+      </profile>
+      <profile name="Annotation profile for scemanagerweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="scemanagerweb" />
+      </profile>
+      <profile name="Annotation profile for discount" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="discount" />
+      </profile>
+      <profile name="Annotation profile for builder" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="builder" />
+      </profile>
+      <profile name="Annotation profile for elongdata" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="elongdata" />
+      </profile>
+      <profile name="Annotation profile for wechatweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wechatweb" />
+      </profile>
+      <profile name="Annotation profile for payweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="payweb" />
+      </profile>
+      <profile name="Annotation profile for ctripdata" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ctripdata" />
+      </profile>
+      <profile name="Annotation profile for ali-tool" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ali-tool" />
+      </profile>
+      <profile name="Annotation profile for productservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="productservice" />
+      </profile>
+      <profile name="Annotation profile for scenicservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="scenicservice" />
+      </profile>
+      <profile name="Annotation profile for hotelservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hotelservice" />
+      </profile>
+      <profile name="Annotation profile for ticketservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ticketservice" />
+      </profile>
+      <profile name="Annotation profile for userweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="userweb" />
+      </profile>
+      <profile name="Annotation profile for orderservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="orderservice" />
+      </profile>
+      <profile name="Annotation profile for productweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="productweb" />
+      </profile>
+      <profile name="Annotation profile for scheduler" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="scheduler" />
+      </profile>
+      <profile name="Annotation profile for trafficservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="trafficservice" />
+      </profile>
+      <profile name="Annotation profile for lineweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lineweb" />
+      </profile>
+      <profile name="Annotation profile for restaurantservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="restaurantservice" />
+      </profile>
+      <profile name="Annotation profile for scenicweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="scenicweb" />
+      </profile>
+      <profile name="Annotation profile for lxbcommonservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lxbcommonservice" />
+      </profile>
+      <profile name="Annotation profile for frame" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="frame" />
+      </profile>
+      <profile name="Annotation profile for lvxbangweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lvxbangweb" />
+      </profile>
+      <profile name="Annotation profile for restaurantweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="restaurantweb" />
+      </profile>
+      <profile name="Annotation profile for salesservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="salesservice" />
+      </profile>
+      <profile name="Annotation profile for solr" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="solr" />
+      </profile>
+      <profile name="Annotation profile for impressionservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="impressionservice" />
+      </profile>
+      <profile name="Annotation profile for areaservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="areaservice" />
+      </profile>
+      <profile name="Annotation profile for comment" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="comment" />
+      </profile>
+      <profile name="Annotation profile for planservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="planservice" />
+      </profile>
+      <profile name="Annotation profile for common" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common" />
+      </profile>
+      <profile name="Annotation profile for hotelweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hotelweb" />
+      </profile>
+      <profile name="Annotation profile for salesweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="salesweb" />
+      </profile>
+      <profile name="Annotation profile for yhypcweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="yhypcweb" />
+      </profile>
+      <profile name="Annotation profile for yihaiyouweb" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="yihaiyouweb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ali-tool" target="1.7" />
+      <module name="api" target="1.5" />
+      <module name="area" target="1.5" />
+      <module name="areaservice" target="1.7" />
+      <module name="areaweb" target="1.7" />
+      <module name="builder" target="1.7" />
+      <module name="business" target="1.5" />
+      <module name="comment" target="1.7" />
+      <module name="common" target="1.7" />
+      <module name="contract" target="1.5" />
+      <module name="contractservice" target="1.7" />
+      <module name="contractweb" target="1.7" />
+      <module name="coressh4" target="1.7" />
+      <module name="cruiseship" target="1.5" />
+      <module name="cruiseshipservice" target="1.7" />
+      <module name="cruiseshipweb" target="1.7" />
+      <module name="ctripdata" target="1.7" />
+      <module name="customer" target="1.5" />
+      <module name="customerservice" target="1.7" />
+      <module name="customerweb" target="1.7" />
+      <module name="datamgr" target="1.7" />
+      <module name="discount" target="1.7" />
+      <module name="elongdata" target="1.7" />
+      <module name="fengxiao" target="1.7" />
+      <module name="frame" target="1.7" />
+      <module name="goods" target="1.5" />
+      <module name="goodsservice" target="1.7" />
+      <module name="goodsweb" target="1.7" />
+      <module name="handdrawing" target="1.5" />
+      <module name="handdrawingservice" target="1.7" />
+      <module name="handdrawingweb" target="1.7" />
+      <module name="hotel" target="1.5" />
+      <module name="hotelservice" target="1.7" />
+      <module name="hotelweb" target="1.7" />
+      <module name="ikanalysis" target="1.5" />
+      <module name="impression" target="1.5" />
+      <module name="impressionservice" target="1.7" />
+      <module name="line" target="1.5" />
+      <module name="lineservice" target="1.7" />
+      <module name="lineweb" target="1.7" />
+      <module name="logic" target="1.5" />
+      <module name="lvxbang" target="1.5" />
+      <module name="lvxbangservice" target="1.7" />
+      <module name="lvxbangweb" target="1.7" />
+      <module name="lxbcommon" target="1.5" />
+      <module name="lxbcommonservice" target="1.7" />
+      <module name="lxbcommonweb" target="1.7" />
+      <module name="new yihaiyou" target="1.5" />
+      <module name="order" target="1.5" />
+      <module name="orderservice" target="1.7" />
+      <module name="orderweb" target="1.7" />
+      <module name="other" target="1.5" />
+      <module name="otherservice" target="1.7" />
+      <module name="otherweb" target="1.7" />
+      <module name="pay" target="1.5" />
+      <module name="payservice" target="1.7" />
+      <module name="payweb" target="1.7" />
+      <module name="plan" target="1.5" />
+      <module name="planservice" target="1.7" />
+      <module name="planweb" target="1.7" />
+      <module name="product" target="1.5" />
+      <module name="productservice" target="1.7" />
+      <module name="productweb" target="1.7" />
+      <module name="projects" target="1.5" />
+      <module name="restaurant" target="1.5" />
+      <module name="restaurantservice" target="1.7" />
+      <module name="restaurantweb" target="1.7" />
+      <module name="sales" target="1.5" />
+      <module name="salesservice" target="1.7" />
+      <module name="salesweb" target="1.7" />
+      <module name="scemanager" target="1.5" />
+      <module name="scemanagerweb" target="1.7" />
+      <module name="scemanageservice" target="1.7" />
+      <module name="scenic" target="1.5" />
+      <module name="scenicservice" target="1.7" />
+      <module name="scenicweb" target="1.7" />
+      <module name="scheduler" target="1.7" />
+      <module name="search" target="1.7" />
+      <module name="shopcart" target="1.5" />
+      <module name="shopcartservice" target="1.7" />
+      <module name="shopcartweb" target="1.7" />
+      <module name="solr" target="1.6" />
+      <module name="sparkbase" target="1.7" />
+      <module name="ticket" target="1.5" />
+      <module name="ticketservice" target="1.7" />
+      <module name="ticketweb" target="1.7" />
+      <module name="traffic" target="1.5" />
+      <module name="trafficservice" target="1.7" />
+      <module name="trafficweb" target="1.7" />
+      <module name="translation" target="1.7" />
+      <module name="transportation" target="1.5" />
+      <module name="transportationservice" target="1.7" />
+      <module name="transportationweb" target="1.7" />
+      <module name="user" target="1.5" />
+      <module name="userservice" target="1.7" />
+      <module name="userweb" target="1.7" />
+      <module name="wechat" target="1.5" />
+      <module name="wechat-tool" target="1.7" />
+      <module name="wechatservice" target="1.7" />
+      <module name="wechatweb" target="1.7" />
+      <module name="weixin" target="1.5" />
+      <module name="weixinservice" target="1.7" />
+      <module name="weixinweb" target="1.7" />
+      <module name="yhypcweb" target="1.7" />
+      <module name="yihaiyouweb" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

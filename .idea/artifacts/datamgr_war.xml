@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="datamgr:war">
+    <output-path>$PROJECT_DIR$/projects/datamgr/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>datamgr</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="datamgr.war">
+      <element id="artifact" artifact-name="datamgr:war exploded" />
+    </root>
+  </artifact>
+</component>

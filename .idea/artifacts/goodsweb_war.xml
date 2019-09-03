@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="goodsweb:war">
+    <output-path>$PROJECT_DIR$/business/goods/goodsweb/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>goodsweb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="goodsweb-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="goodsweb:war exploded" />
+    </root>
+  </artifact>
+</component>

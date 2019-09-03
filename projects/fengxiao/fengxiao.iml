@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/src/main/webapp" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/java" />
+          <root url="file://$MODULE_DIR$/src/main/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: com.data.data:builder:war:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:frame:classes:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:frame:war:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:shopcartweb:war:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:payweb:classes:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:payweb:war:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:orderweb:classes:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:orderweb:war:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:userweb:classes:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:userweb:war:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:lineweb:classes:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:lineweb:war:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:cruiseshipweb:classes:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:cruiseshipweb:war:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:goodsweb:classes:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:goodsweb:war:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:customerweb:classes:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:customerweb:war:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:lxbcommonweb:classes:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:lxbcommonweb:war:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:otherweb:classes:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:otherweb:war:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:ticketweb:classes:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:ticketweb:war:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:scemanagerweb:classes:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:scemanagerweb:war:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:wechatweb:classes:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:wechatweb:war:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:areaweb:classes:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:areaweb:war:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:scenicweb:classes:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:scenicweb:war:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:restaurantweb:classes:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:restaurantweb:war:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:planweb:classes:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:planweb:war:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:hotelweb:classes:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:hotelweb:war:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:transportationweb:classes:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:transportationweb:war:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:trafficweb:classes:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:trafficweb:war:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:salesweb:classes:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:salesweb:war:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:contractweb:classes:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:contractweb:war:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:builder:classes:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:scenicservice:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:restaurantservice:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:areaservice:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:ticketservice:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.data.data:planservice:0.0.1-SNAPSHOT" level="project" />
+  </component>
+</module>
